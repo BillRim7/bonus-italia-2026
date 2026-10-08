@@ -1,0 +1,7 @@
+# Dipendenze di BOM Compare (tutte funzionano offline, nessun servizio esterno)
+PyQt6>=6.5          # interfaccia grafica
+pandas>=2.0         # elaborazione dati
+openpyxl>=3.1       # lettura/scrittura Excel .xlsx
+xlrd>=2.0.1         # lettura vecchi file Excel .xls
+qtawesome>=1.3      # icone FontAwesome (font inclusi nel pacchetto)
+reportlab>=4.0      # esportazione PDF (opzionale)

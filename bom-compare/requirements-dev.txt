@@ -1,0 +1,3 @@
+-r requirements.txt
+pyinstaller>=6.0    # creazione dell'eseguibile .exe
+pytest>=7.0         # test automatici

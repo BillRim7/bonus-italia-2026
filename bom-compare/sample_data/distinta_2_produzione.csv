@@ -1,0 +1,101 @@
+﻿Livello;Codice Articolo;Descrizione;Q.tà;U.M.;Rev.;Fornitore;Prezzo Unitario €
+0;MAC-ABC200;CONFEZIONATRICE ABC-200;1;PZ;B;;
+1;ASS-TEL-101;TELAIO PRINCIPALE SALDATO;1;PZ;A;Produzione interna;
+2;LAM-1140;Lamiera piegata sp. 3 mm;8;PZ;A;Lamiere Brambilla;45,00
+2;PRF-1240;Profilato alluminio 45x45;12;M;A;Siemens Italia;18,50
+2;PIE-1340;Piedino regolabile M16;6;PZ;A;Siemens Italia;7,90
+2;VIT-1440;Vite TCEI M8x25 inox;72;PZ;A;Bulloneria Verdi;0,18
+2;DAD-1540;Dado autobloccante M8;60;PZ;A;Bulloneria Verdi;0,07
+1;ASS-MOT-102;GRUPPO MOTORIDUTTORE;1;PZ;A;Produzione interna;
+2;MTR-2140;Motore asincrono 1,5 kW IE3;1;PZ;B;Siemens Italia;310,00
+2;RID-2240;Riduttore a vite senza fine i=30;1;PZ;A;Elettro Bianchi SpA;240,00
+2;GIU-2340;Giunto elastico D28;2;PZ;A;Siemens Italia;32,00
+2;CUS-2440;Cuscinetto 6205-2RS;4;PZ;A;NSK Italia Srl;6,40
+2;ALB-2540;Albero trasmissione D25;1;PZ;A;Meccanica Rossi Srl;58,00
+1;ASS-QEL-103;QUADRO ELETTRICO;1;PZ;A;Produzione interna;
+2;PLC-3140;PLC compatto 24 I/O;1;PZ;A;Siemens Italia;520,00
+2;INV-3240;Inverter 2,2 kW;1;PZ;A;Siemens Italia;385,00
+2;ALI-3340;Alimentatore 24 Vdc 10 A;1;PZ;A;Omron Electronics;96,00
+2;MAG-3440;Interruttore magnetotermico 16 A;4;PZ;A;Elettro Bianchi SpA;22,50
+2;REL-3540;Relè di sicurezza;1;PZ;A;Omron Electronics;140,00
+2;MOR-3640;Morsetto a molla 2,5 mm²;96;PZ;A;Elettro Bianchi SpA;0,79
+2;CAV-3740;Cavo multipolare 7x1;25;M;A;Elettro Bianchi SpA;2,30
+2;PUL-3840;Pulsante emergenza a fungo;2;PZ;A;Omron Electronics;28,00
+2;SEL-3940;Selettore a chiave 2 posizioni;1;PZ;A;Omron Electronics;31,00
+1;ASS-PNE-104;GRUPPO PNEUMATICO;1;PZ;A;Produzione interna;
+2;CIL-4140;Cilindro ISO 15552 D50 c.100;2;PZ;A;Festo Spa;88,00
+2;ELV-4240;Elettrovalvola 5/2 monostabile;4;PZ;A;Festo Spa;54,00
+2;FRL-4340;"Gruppo FRL 1/2""";1;PZ;A;Pneumax Italia;120,00
+2;TUB-4440;Tubo poliuretano D8;15;M;A;Festo Spa;1,20
+2;RAC-4540;"Raccordo istantaneo D8 1/4""";16;PZ;A;Pneumax Italia;2,10
+2;SIL-4640;"Silenziatore sinterizzato 1/4""";4;PZ;A;Festo Spa;3,20
+1;ASS-NAS-105;NASTRO TRASPORTATORE;1;PZ;A;Produzione interna;
+2;TAP-5140;Tappeto PVC alimentare L=3000;1;PZ;A;Plastiche Lombarde;260,00
+2;RUL-5240;Rullo motorizzato D50;2;PZ;A;Meccanica Rossi Srl;145,00
+2;RFO-5340;Rullo folle D50;6;PZ;A;Meccanica Rossi Srl;38,00
+2;SPO-5440;Sponda laterale inox;2;PZ;A;Lamiere Brambilla;64,00
+2;FOT-5540;Fotocellula a riflessione;2;PZ;A;Omron Electronics;75,00
+1;ASS-PRO-106;PROTEZIONI E CARTER;1;PZ;A;Produzione interna;
+2;PAN-6140;Pannello policarbonato 1000x800;4;PZ;A;Plastiche Lombarde;82,00
+2;CER-6240;Cerniera in zama;8;PZ;A;Meccanica Rossi Srl;6,50
+2;MIC-6340;Microinterruttore di sicurezza;2;PZ;A;Omron Electronics;46,00
+2;MAN-6440;Maniglia a ponte;4;PZ;A;Plastiche Lombarde;4,80
+1;ASS-MIN-900;KIT MINUTERIA E CONSUMABILI;1;PZ;A;Produzione interna;
+2;MIN-5001;Guaina tipo 1;4;PZ;A;Bulloneria Verdi;1,02
+2;MIN-5002;Rondella piana tipo 2;2;PZ;A;Bulloneria Verdi;2,06
+2;MIN-5003;Vite TE tipo 3;6;PZ;A;Bulloneria Verdi;1,48
+2;MIN-5004;Fascetta tipo 4;2;PZ;A;Bulloneria Verdi;0,26
+2;MIN-5005;Spina cilindrica tipo 5;2;PZ;A;Bulloneria Verdi;0,64
+2;MIN-5006;Spina cilindrica tipo 6;2;PZ;A;Bulloneria Verdi;2,08
+2;MIN-5008;Rondella piana tipo 8;10;PZ;A;Bulloneria Verdi;1,48
+2;MIN-5009;Rondella piana tipo 9;4;PZ;A;Bulloneria Verdi;0,16
+2;MIN-5010;Grano M6 tipo 10;6;PZ;A;Bulloneria Verdi;1,08
+2;MIN-5011;Vite TE tipo 11;10;PZ;A;Bulloneria Verdi;0,81
+2;MIN-5012;Grano M6 tipo 12;2;PZ;A;Bulloneria Verdi;1,47
+2;MIN-5013;Fascetta tipo 13;6;PZ;A;Bulloneria Verdi;0,29
+2;MIN-5014;Vite TE tipo 14;10;PZ;A;Bulloneria Verdi;0,20
+2;MIN-5015;Fascetta tipo 15;8;PZ;A;Bulloneria Verdi;1,72
+2;MIN-5016;Spina cilindrica tipo 16;6;PZ;A;Bulloneria Verdi;1,19
+2;MIN-5017;Distanziale tipo 17;6;PZ;A;Bulloneria Verdi;0,78
+2;MIN-5018;Grano M6 tipo 18;12;PZ;A;Bulloneria Verdi;1,96
+2;MIN-5019;Vite TE tipo 19;10;PZ;A;Bulloneria Verdi;0,79
+2;MIN-5020;Distanziale tipo 20;6;PZ;A;Bulloneria Verdi;1,84
+2;MIN-5022;Vite TE tipo 22;10;PZ;A;Bulloneria Verdi;1,07
+2;MIN-5023;Guaina tipo 23;4;PZ;A;Bulloneria Verdi;2,34
+2;MIN-5024;Spina cilindrica tipo 24;2;PZ;A;Bulloneria Verdi;2,41
+2;MIN-5025;Vite TE tipo 25;10;PZ;A;Bulloneria Verdi;1,45
+2;MIN-5026;Guaina tipo 26;6;PZ;A;Bulloneria Verdi;1,75
+2;MIN-5027;Distanziale tipo 27;10;PZ;A;Bulloneria Verdi;2,00
+2;MIN-5028;Vite TE tipo 28;2;PZ;A;Bulloneria Verdi;2,36
+2;MIN-5029;Distanziale tipo 29;12;PZ;A;Bulloneria Verdi;1,68
+2;MIN-5030;Rondella piana tipo 30;12;PZ;A;Bulloneria Verdi;1,77
+2;MIN-5031;Distanziale tipo 31;6;PZ;A;Bulloneria Verdi;1,81
+2;MIN-5032;Guaina tipo 32;2;PZ;A;Bulloneria Verdi;2,35
+2;MIN-5033;Guaina tipo 33;4;PZ;A;Bulloneria Verdi;1,55
+2;MIN-5034;Distanziale tipo 34;2;PZ;A;Bulloneria Verdi;0,58
+2;MIN-5035;Etichetta tipo 35;4;PZ;A;Bulloneria Verdi;1,86
+2;MIN-5036;Spina cilindrica tipo 36;8;PZ;A;Bulloneria Verdi;2,30
+2;MIN-5037;Distanziale tipo 37;2;PZ;A;Bulloneria Verdi;0,46
+2;MIN-5038;Spina cilindrica tipo 38;10;PZ;A;Bulloneria Verdi;0,73
+2;MIN-5039;Grano M6 tipo 39;8;PZ;A;Bulloneria Verdi;2,17
+2;MIN-5040;Etichetta tipo 40;12;PZ;A;Bulloneria Verdi;1,07
+2;MIN-5041;Guaina tipo 41;12;PZ;A;Bulloneria Verdi;2,22
+2;MIN-5042;Fascetta tipo 42;4;PZ;A;Bulloneria Verdi;0,25
+2;MIN-5043;Grano M6 tipo 43;4;PZ;A;Bulloneria Verdi;1,66
+2;MIN-5044;Rondella piana tipo 44;8;PZ;A;Bulloneria Verdi;2,09
+2;MIN-5045;Grano M6 tipo 45;6;PZ;A;Bulloneria Verdi;0,74
+2;MIN-5046;Grano M6 tipo 46;8;PZ;A;Bulloneria Verdi;1,36
+2;MIN-5047;Guaina tipo 47;4;PZ;A;Bulloneria Verdi;1,74
+2;MIN-5048;Rondella piana tipo 48;8;PZ;A;Bulloneria Verdi;2,25
+2;MIN-5049;Spina cilindrica tipo 49;8;PZ;A;Bulloneria Verdi;1,03
+2;MIN-5050;Vite TE tipo 50;8;PZ;A;Bulloneria Verdi;1,60
+2;MIN-5051;Rondella piana tipo 51;4;PZ;A;Bulloneria Verdi;0,22
+2;MIN-5052;Fascetta tipo 52;8;PZ;A;Bulloneria Verdi;0,45
+2;MIN-5053;Guaina tipo 53;10;PZ;A;Bulloneria Verdi;0,18
+2;MIN-5054;Rondella piana tipo 54;10;PZ;A;Bulloneria Verdi;0,42
+2;MIN-5055;Vite TE tipo 55;6;PZ;A;Bulloneria Verdi;1,55
+2;MIN-5056;Vite TE tipo 56;4;PZ;A;Bulloneria Verdi;1,55
+2;MIN-5057;Grano M6 tipo 57;12;PZ;A;Bulloneria Verdi;0,67
+2;MIN-5058;Guaina tipo 58;10;PZ;A;Bulloneria Verdi;0,94
+2;MIN-5059;Vite TE tipo 59;2;PZ;A;Bulloneria Verdi;2,13
+2;MIN-5060;Distanziale tipo 60;8;PZ;A;Bulloneria Verdi;1,24

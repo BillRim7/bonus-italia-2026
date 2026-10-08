@@ -1,0 +1,70 @@
+{
+  "app": {
+    "name": "BOM Compare",
+    "log_level": "INFO"
+  },
+  "comparison": {
+    "tolerance_pct": 10.0,
+    "qty_epsilon": 0.000001,
+    "ignore_description_case": true,
+    "ignore_whitespace": true,
+    "code_case_insensitive": true,
+    "aggregate_duplicates": true,
+    "compare_fields": ["quantity", "description", "uom", "revision", "supplier", "price", "structure"]
+  },
+  "default_roles": [
+    "Macchina VECCHIA",
+    "Macchina in PRODUZIONE",
+    "Macchina in PROGETTAZIONE"
+  ],
+  "max_boms": 6,
+  "column_aliases": {
+    "code": ["codice articolo", "codice", "cod articolo", "cod art", "articolo", "codice componente", "cod componente", "part number", "part no", "pn", "p n", "item", "item code", "item number", "material", "materiale", "cod", "component"],
+    "description": ["descrizione", "descrizione articolo", "desc", "description", "denominazione", "testo breve", "descr"],
+    "quantity": ["quantita", "qta", "q ta", "qty", "quantity", "quant", "pezzi", "n pezzi", "nr pezzi", "qta per assieme", "qta assieme", "qta unitaria", "pcs"],
+    "uom": ["unita di misura", "um", "u m", "uom", "unita", "unit", "unit of measure", "udm"],
+    "revision": ["revisione", "rev", "revision", "indice revisione", "versione articolo", "ver"],
+    "supplier": ["fornitore", "supplier", "vendor", "produttore", "costruttore", "ragione sociale fornitore", "manufacturer"],
+    "price": ["prezzo unitario", "prezzo", "costo unitario", "costo", "price", "unit price", "cost", "unit cost", "eur", "euro"],
+    "level": ["livello", "liv", "level", "lvl", "livello distinta"],
+    "parent": ["codice padre", "padre", "assieme padre", "parent", "parent code", "codice assieme", "assieme"]
+  },
+  "history": {
+    "enabled": true,
+    "auto_snapshot_on_load": true,
+    "max_snapshots": 1000
+  },
+  "ui": {
+    "default_theme": "light",
+    "row_height": 26,
+    "preview_rows": 100
+  },
+  "templates": {
+    "Standard": {
+      "description": "Impostazioni generiche valide per la maggior parte delle macchine.",
+      "tolerance_pct": 10.0,
+      "compare_fields": ["quantity", "description", "uom", "revision", "supplier", "price", "structure"],
+      "extra_aliases": {}
+    },
+    "Macchina confezionatrice": {
+      "description": "Tolleranza stretta sulle quantità, confronto completo di revisioni e fornitori.",
+      "tolerance_pct": 5.0,
+      "roles": ["Confezionatrice VECCHIA", "Confezionatrice in PRODUZIONE", "Confezionatrice NUOVA"],
+      "compare_fields": ["quantity", "description", "uom", "revision", "supplier", "price", "structure"],
+      "extra_aliases": {"code": ["codice sap"], "quantity": ["qta distinta"]}
+    },
+    "Linea di assemblaggio": {
+      "description": "Distinte multi-livello con sotto-assiemi; tolleranza più ampia sui materiali di consumo.",
+      "tolerance_pct": 20.0,
+      "roles": ["Linea VECCHIA", "Linea in PRODUZIONE", "Linea in PROGETTAZIONE"],
+      "compare_fields": ["quantity", "revision", "supplier", "structure"],
+      "extra_aliases": {"level": ["livello esploso"], "parent": ["assieme di appartenenza"]}
+    },
+    "Solo acquisti (fornitori e prezzi)": {
+      "description": "Per l'ufficio acquisti: evidenzia solo variazioni di quantità, fornitore e prezzo.",
+      "tolerance_pct": 10.0,
+      "compare_fields": ["quantity", "supplier", "price"],
+      "extra_aliases": {}
+    }
+  }
+}
