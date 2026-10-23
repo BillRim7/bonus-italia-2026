@@ -36,7 +36,7 @@
 
 | Passo | Dove | Note |
 |---|---|---|
-| Apertura P.IVA | Agenzia delle Entrate | ATECO **47.21.01** – commercio al dettaglio di frutta e verdura fresca ⚠️ verificare codice in tabella ATECO 2025 |
+| Apertura P.IVA | Agenzia delle Entrate | ATECO: **47.21.01** (frutta e verdura fresca) se prevalente; con olive, spezie, formaggi e prodotti tipici l'attività è un alimentare misto → valutare codice prevalente (es. 47.11.x/47.29.x) e codici secondari ⚠️ verificare con commercialista/tabella ATECO |
 | Comunicazione Unica | Camera di Commercio (Ferrara-Ravenna? ⚠️ verificare ente) | Iscrizione Registro Imprese/REA, INPS, INAIL |
 | PEC e firma digitale | Provider | Obbligatorie |
 | SCIA commercio (esercizio di vicinato) | SUAP Comune di Ferrara | Dopo corso, dopo conformità del locale |

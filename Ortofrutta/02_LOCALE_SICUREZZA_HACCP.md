@@ -89,9 +89,24 @@
 | Insegna e vetrofanie | 500–2.000 | |
 | **Totale indicativo** | **~2.850–13.400** | Alimenta `04_ANALISI_ECONOMICOFINANZIARIA.md` |
 
+## 7b. Impatto dell'assortimento ampliato (olive, spezie, formaggi, prodotti arabi)
+| Prodotto | Rischio/obbligo | Conseguenza sul locale |
+|---|---|---|
+| **Formaggi** (origine animale) | Catena del freddo +4 °C max; vendita preconfezionata (semplice) vs a taglio/sfusa (affettatrice, coltelli, tavolo, igiene, procedure) ⚠️ | Banco/armadio refrigerato dedicato; lavello e superfici dedicate se si taglia; HACCP più stringente |
+| **Olive sfuse** | Vaschette con salamoia, contaminazione, etichettatura ingredienti/allergeni, scadenze | Banco con contenitori coperti, pinze, etichette |
+| **Spezie** (sfuse/confezionate) | Contaminanti (aflatossine, coloranti non consentiti, Salmonella), etichettatura, lotti | Contenitori chiusi, bilancia, etichettatrice |
+| **Prodotti tipici arabi (importati)** | Etichetta **in italiano** (Reg. UE 1169/2011: denominazione, ingredienti, allergeni, quantità, TMC/scadenza, operatore responsabile); fornitori/importatori registrati; controlli su additivi/coloranti vietati; **halal** solo se certificato e dichiarato ⚠️ | Verificare ogni prodotto prima dell'acquisto; spazio scaffale ridotto |
+
+- **Notifica sanitaria**: indicare nel modulo tutte le categorie merceologiche (ortofrutta + prodotti di origine animale + prodotti confezionati/sfusi) ⚠️.
+- **Prodotti di origine animale (formaggi)** nel dettaglio: in genere vengono venduti dal dettaglio senza riconoscimento CE, ma con requisiti igienici; la vendita di **sfusi richiede conformità del banco**.
+- **Consiglio operativo**: partire con **formaggi e olive confezionati/preconfezionati** (o formaggi a pezzi sigillati) per evitare attrezzatura e rischi aggiuntivi; valutare il taglio dopo il 1° anno.
+- **ATECO e SCIA**: la vendita di più categorie può richiedere di indicare il codice prevalente (es. 47.11.x/47.29.x) e di dichiarare più settori merceologici alimentari ⚠️ verificare con commercialista/SUAP.
+
 ## 8. Punti aperti del Modulo 2
 1. Verifica fisica del locale (WC/antibagno, scarico, aerazione, dimensioni reali)
 2. Parere preliminare AUSL/SUAP Ferrara (requisiti minimi per ortofrutta in locale ex parrucchiera)
 3. Procedura HACCP semplificata applicabile e livello di formazione
 4. Se si decide di fare centrifugati/IV gamma: SAB e requisiti del laboratorio
 5. Preventivi reali (tecnico, elettricista, frigorista)
+6. Vendita di formaggi/olive: sfusi o confezionati? (impatta banchi, HACCP, spazio)
+7. Verifica prodotti arabi: etichette in italiano, fornitori, eventuale halal
