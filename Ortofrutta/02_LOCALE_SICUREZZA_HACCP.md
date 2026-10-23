@@ -90,6 +90,8 @@
 | **Totale indicativo** | **~2.850–13.400** | Alimenta `04_ANALISI_ECONOMICOFINANZIARIA.md` |
 
 ## 7b. Impatto dell'assortimento ampliato (olive, spezie, formaggi, prodotti arabi)
+> Aggiornamento: **formaggi e olive non saranno venduti all'avvio** (da riconfermare). Restano rilevanti spezie e prodotti arabi; formaggi/olive come opzione futura.
+
 | Prodotto | Rischio/obbligo | Conseguenza sul locale |
 |---|---|---|
 | **Formaggi** (origine animale) | Catena del freddo +4 °C max; vendita preconfezionata (semplice) vs a taglio/sfusa (affettatrice, coltelli, tavolo, igiene, procedure) ⚠️ | Banco/armadio refrigerato dedicato; lavello e superfici dedicate se si taglia; HACCP più stringente |
