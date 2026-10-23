@@ -93,6 +93,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- Titolare senza attività autonome negli ultimi 3 anni → probabile accesso al forfettario con aliquota 5% (condizioni da confermare).
 - **7 giorni su 7, 8–20 = 84 h/settimana per una sola persona**: non sostenibile nel lungo periodo e difficilmente compatibile con acquisti, HACCP e contabilità. Nel business plan si proporrà un orario base realistico (es. 6 giorni, pausa pranzo o chiusura anticipata) e uno scenario con aiuto/dipendente part-time. I ricavi dell'orario esteso (domenica) vanno valutati con prudenza.
 - **Data di apertura**: determinata dal percorso critico → corso abilitante → verifica locale/contratto condizionato → domanda bando → esito/erogazione → lavori e forniture → SCIA/notifica sanitaria → apertura. Un cronoprogramma realistico verrà inserito in `BUSINESS_PLAN_UFFICIALE.md`.
 - **Orario previsto 8:00–20:00 con una sola operatrice**: 12 h/giorno in negozio (72 h/sett. su 6 giorni), senza pausa e senza il tempo per acquisti, pulizie, contabilità. Rischio di sostenibilità personale e di errori su HACCP/registrazioni. Da valutare nel Piano Operativo: orario ridotto con pausa (es. 8–13 / 16–19:30), chiusura di un giorno e mezzo, sostituzione del marito/altri per le ore di acquisto, eventuale primo collaboratore dal 2° anno (costo da inserire in scenari). Verificare anche eventuali limiti di orario comunali (Ferrara) ⚠️ DA VERIFICARE.

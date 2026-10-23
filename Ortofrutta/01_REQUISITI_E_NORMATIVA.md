@@ -61,6 +61,7 @@
 
 ## 6. Regime fiscale: forfettario o ordinario
 
+- **Titolare senza alcuna attività autonoma negli ultimi 3 anni (confermato dal cliente)** → soddisfa il requisito di *nuova attività* per l'aliquota 5%, da confermare con le altre condizioni ⚠️.
 - **Forfettario:** ricavi fino a €85.000; imposta sostitutiva **5% per i primi 5 anni** se ricorrono le condizioni di nuova attività (nessuna attività autonoma negli ultimi 3 anni, non prosegue attività precedente, ecc.), poi 15%. ⚠️ DA VERIFICARE soglie e condizioni 2026–27.
 - **Coefficiente di redditività** per commercio al dettaglio alimentare: ≈ 40% dei ricavi ⚠️ DA VERIFICARE; il reddito imponibile = ricavi × coefficiente, **senza deduzione dei costi reali**.
 - **Attenzione:** nel commercio di ortofrutta il margine lordo è basso e i costi sono elevati; un ricavo vicino alla soglia può rendere il forfettario *poco conveniente* se i costi reali superano il 60% dei ricavi. Il confronto numerico forfettario/ordinario va fatto in `04_ANALISI_ECONOMICOFINANZIARIA.md`.
