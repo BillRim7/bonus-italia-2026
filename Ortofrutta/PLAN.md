@@ -19,7 +19,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 | Residenza della titolare (Comune/Regione) | — | ❓ |
 | Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | — | ❓ |
 | Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | — | ❓ |
-| Locale: già individuato? In affitto o acquisto? Canone stimato? | Indirizzo indicato: via Oroboni, Ferrara (da confermare se è un locale già individuato; affitto/acquisto e canone da definire) | 🟨 |
+| Locale: già individuato? In affitto o acquisto? Canone stimato? | **Garage** in via Oroboni, Ferrara (probabile cat. C/6 → serve cambio di destinazione d'uso a C/1). Proprietà/affitto, canone e condominio da chiarire | 🟨 |
 | Forma giuridica preferita (ditta individuale / società) | — | ❓ |
 | Presenza di eventuali soci o dipendenti | — | ❓ |
 
@@ -27,7 +27,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 
 1. ✅ Città/regione: Ferrara, Emilia-Romagna, via Oroboni
 2. 🟨 Metratura: ~12 mq stimati (da misurare/confermare con planimetria o visura catastale)
-3. ❓ **Budget di partenza indicativo** ← _domanda corrente_
+3. ❓ **Il garage è di proprietà (vostra/familiare) o da prendere in affitto?** ← _domanda corrente_
+3b. ⬜ Budget di partenza indicativo
 4. ⬜ Età, residenza e condizione occupazionale della titolare
 5. ⬜ Requisiti professionali già posseduti
 6. ⬜ Locale individuato? Affitto/acquisto e canone
@@ -91,6 +92,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 
 ## Registro decisioni e avvertenze
 - **Localizzazione = Ferrara (Emilia-Romagna)**: regione fuori dal Mezzogiorno → **Resto al Sud 2.0 probabilmente non applicabile** (⚠️ DA VERIFICARE l'elenco dei territori ammessi). Restano da valutare ON, Fondo Impresa Donna, Microcredito e bandi regionali/camerali (Regione Emilia-Romagna, CCIAA Ferrara).
+- **⚠️ Il locale è un GARAGE (probabile C/6)**: è la criticità n.1 del progetto. Per aprire un negozio alimentare serve: (a) cambio di destinazione d'uso a commerciale (titolo edilizio al Comune di Ferrara, possibili oneri), (b) verifica che la zona (RUE/PSC) ammetta il commercio, (c) verifica che il garage non sia pertinenza vincolata di un'abitazione (L. 122/1989) o soggetto a vincoli di regolamento condominiale, (d) agibilità e requisiti igienico-edilizi (altezza utile, aero-illuminazione, servizio igienico con antibagno, pavimenti/pareti lavabili, scarichi, ventilazione), (e) aggiornamento catastale (variazione a C/1). Costi e tempi vanno inseriti nel CAPEX. **Decisione "go/no-go" dopo parere preliminare di un tecnico (geometra/architetto) e confronto con SUAP/Edilizia del Comune e AUSL.**
 - **Locale molto piccolo (~12 mq)**: impatta layout (banco + cella + bilancia + cassa), assortimento e fatturato massimo. Da verificare: presenza di servizio igienico per il personale, antibagno, spazio per lavaggio/stoccaggio, possibilità di magazzino esterno; superficie minima/requisiti igienici previsti dal regolamento comunale e dall'AUSL. Il modello va pensato "snello" (alta rotazione, poco stock, eventuale consegna a domicilio).
 - Da approfondire a Ferrara: SUAP del Comune di Ferrara (SCIA), AUSL Ferrara – Dip. Sanità Pubblica (notifica sanitaria), mercato ortofrutticolo di riferimento (Ferrara o CAAB Bologna ⚠️ DA VERIFICARE), eventuali vincoli del centro storico/zone ZTL e regolamenti comunali sul commercio.
 - Le misure agevolative cambiano spesso (dotazioni, soglie, requisiti): ogni cifra o percentuale va **verificata sul bando/avviso vigente** prima della presentazione. Nei documenti le informazioni da verificare sono marcate con `⚠️ DA VERIFICARE`.

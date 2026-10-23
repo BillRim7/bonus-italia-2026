@@ -2,6 +2,16 @@
 
 > Stato: ⬜ da compilare (Fase 2) · Dati necessari: comune, metratura, locale già individuato (sì/no), eventuale laboratorio/centrifugati.
 
+## 0. ⚠️ Situazione specifica: GARAGE in via Oroboni, Ferrara (~12 mq)
+Il locale è un garage (probabile cat. catastale **C/6**, non C/1). Percorso da verificare:
+1. **Visura e planimetria catastale** (categoria, consistenza, intestatario) e titolo edilizio/agibilità storici
+2. **Compatibilità urbanistica**: la zona consente la destinazione commerciale? (strumenti urbanistici del Comune di Ferrara: PSC/RUE) ⚠️ DA VERIFICARE
+3. **Vincolo pertinenziale** (L. 122/1989) e **regolamento condominiale**: il garage può cambiare uso?
+4. **Cambio di destinazione d'uso** C/6 → C/1 con relativo titolo edilizio, eventuali oneri, standard (parcheggi) e variazione catastale
+5. **Requisiti igienico-edilizi per alimentare**: altezza utile, aero-illuminazione naturale/forzata, servizio igienico + antibagno per il personale, superfici lavabili, scarico/acqua potabile, ventilazione, isolamento, impianto elettrico e frigorifero
+6. **Parere preliminare** di tecnico abilitato + confronto con SUAP/Edilizia e AUSL **prima** di firmare qualsiasi contratto (clausola sospensiva)
+7. Impatto sui bandi: la disponibilità del locale con destinazione idonea è di norma richiesta in fase di domanda/erogazione ⚠️ DA VERIFICARE
+
 ## 1. Locale e requisiti urbanistico-edilizi
 - Categoria catastale C/1 (negozi e botteghe), destinazione d'uso commerciale
 - Agibilità, conformità urbanistica ed edilizia, eventuale cambio di destinazione d'uso
