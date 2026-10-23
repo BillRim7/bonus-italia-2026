@@ -1,7 +1,7 @@
 # PLAN.md — Apertura Negozio di Ortofrutta (Imprenditoria Femminile)
 
 > Checklist dinamica e piano di lavoro. Aggiornato a ogni modulo completato.
-> Ultimo aggiornamento: 2026-10-23 — Fase 0 (impostazione struttura)
+> Ultimo aggiornamento: 2026-10-23 — Fase 0 (raccolta dati: ricevuta localizzazione)
 
 Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati dal cliente
 
@@ -11,22 +11,22 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 
 | Dato | Valore | Stato |
 |---|---|---|
-| Città / Comune del locale | — | ❓ |
-| Regione (determina accesso a Resto al Sud 2.0, bandi regionali, normativa commerciale/ASL) | — | ❓ |
+| Città / Comune del locale | Ferrara (FE), via Oroboni | ✅ |
+| Regione (determina accesso a Resto al Sud 2.0, bandi regionali, normativa commerciale/ASL) | Emilia-Romagna (AUSL Ferrara) | ✅ |
 | Metratura presunta del locale (mq vendita + mq magazzino/laboratorio) | — | ❓ |
 | Budget di partenza indicativo (risparmi propri / mezzi propri) | — | ❓ |
 | Età della titolare | — | ❓ |
 | Residenza della titolare (Comune/Regione) | — | ❓ |
 | Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | — | ❓ |
 | Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | — | ❓ |
-| Locale: già individuato? In affitto o acquisto? Canone stimato? | — | ❓ |
+| Locale: già individuato? In affitto o acquisto? Canone stimato? | Indirizzo indicato: via Oroboni, Ferrara (da confermare se è un locale già individuato; affitto/acquisto e canone da definire) | 🟨 |
 | Forma giuridica preferita (ditta individuale / società) | — | ❓ |
 | Presenza di eventuali soci o dipendenti | — | ❓ |
 
 ## Coda delle domande (una alla volta)
 
-1. ❓ **In quale città/comune e regione aprirà il negozio?** ← _domanda corrente_
-2. ⬜ Metratura presunta del locale
+1. ✅ Città/regione: Ferrara, Emilia-Romagna, via Oroboni
+2. ❓ **Metratura presunta del locale** ← _domanda corrente_
 3. ⬜ Budget di partenza indicativo
 4. ⬜ Età, residenza e condizione occupazionale della titolare
 5. ⬜ Requisiti professionali già posseduti
@@ -90,5 +90,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Localizzazione = Ferrara (Emilia-Romagna)**: regione fuori dal Mezzogiorno → **Resto al Sud 2.0 probabilmente non applicabile** (⚠️ DA VERIFICARE l'elenco dei territori ammessi). Restano da valutare ON, Fondo Impresa Donna, Microcredito e bandi regionali/camerali (Regione Emilia-Romagna, CCIAA Ferrara).
+- Da approfondire a Ferrara: SUAP del Comune di Ferrara (SCIA), AUSL Ferrara – Dip. Sanità Pubblica (notifica sanitaria), mercato ortofrutticolo di riferimento (Ferrara o CAAB Bologna ⚠️ DA VERIFICARE), eventuali vincoli del centro storico/zone ZTL e regolamenti comunali sul commercio.
 - Le misure agevolative cambiano spesso (dotazioni, soglie, requisiti): ogni cifra o percentuale va **verificata sul bando/avviso vigente** prima della presentazione. Nei documenti le informazioni da verificare sono marcate con `⚠️ DA VERIFICARE`.
 - Nota terminologica: la **SAB** (Somministrazione Alimenti e Bevande, ex REC) riguarda bar/ristorazione. Per il **solo commercio al dettaglio** di ortofrutta si applica il requisito professionale per il settore alimentare (art. 71, c. 6, D.Lgs. 59/2010), la cui disciplina operativa varia per regione. La SAB diventa rilevante solo se si somministrano/consumano in loco centrifugati o simili.
