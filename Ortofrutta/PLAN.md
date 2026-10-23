@@ -47,14 +47,14 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 - 🟨 INAIL (probabile non obbligatoria per titolare commerciante; da verificare)
 - 🟨 Regime fiscale: forfettario (5% start-up) da confrontare numericamente col regime ordinario in Fase 4/6
 
-## Fase 2 — Locale, licenze e sicurezza → `02_LOCALE_SICUREZZA_HACCP.md`
-- ⬜ Categoria catastale C/1, destinazione d'uso, agibilità, conformità urbanistica
-- ⬜ SCIA commerciale al Comune (esercizio di vicinato) + notifica sanitaria (Reg. CE 852/2004)
-- ⬜ Requisiti igienico-sanitari del locale, catena del freddo, celle frigorifere
-- ⬜ Piano HACCP (fresco, confezionato, eventuale IV gamma / centrifugati)
-- ⬜ Sicurezza sul lavoro D.Lgs. 81/08: DVR, formazione, antincendio, primo soccorso
-- ⬜ Conformità impianti (DM 37/08), F-Gas per impianti frigoriferi, rifiuti/scarti
-- ⬜ Etichettatura, tracciabilità, prezzi/unità di misura, bilance metriche (verifica periodica)
+## Fase 2 — Locale, licenze e sicurezza → `02_LOCALE_SICUREZZA_HACCP.md` — 🟨 BOZZA COMPLETATA (2026-10-23)
+- 🟨 Categoria catastale C/1, destinazione d'uso, agibilità, conformità urbanistica
+- 🟨 SCIA commerciale al Comune (esercizio di vicinato) + notifica sanitaria (Reg. CE 852/2004)
+- 🟨 Requisiti igienico-sanitari del locale, catena del freddo, celle frigorifere
+- 🟨 Piano HACCP (fresco, confezionato, eventuale IV gamma / centrifugati)
+- 🟨 Sicurezza sul lavoro D.Lgs. 81/08: DVR, formazione, antincendio, primo soccorso
+- 🟨 Conformità impianti (DM 37/08), F-Gas per impianti frigoriferi, rifiuti/scarti
+- 🟨 Etichettatura, tracciabilità, prezzi/unità di misura, bilance metriche (verifica periodica)
 
 ## Fase 3 — Logistica, fornitori, scarti → `03_FORNITORI_LOGISTICA_PRODOTTI.md`
 - ⬜ Mercati all'ingrosso (MOI/CAAT/CAM) vs produttori a Km0 vs piattaforme B2B
@@ -93,6 +93,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Modulo 2**: bagno/scarichi del locale dichiarati presenti (da verificare in sopralluogo). Senza dipendenti il DVR non è obbligatorio, ma art. 21 D.Lgs. 81/08 si applica; prudenza: estintore e cassetta. Stima adeguamenti locale ~€2.850–13.400 (da preventivi).
 - Titolare senza attività autonome negli ultimi 3 anni → probabile accesso al forfettario con aliquota 5% (condizioni da confermare).
 - **7 giorni su 7, 8–20 = 84 h/settimana per una sola persona**: non sostenibile nel lungo periodo e difficilmente compatibile con acquisti, HACCP e contabilità. Nel business plan si proporrà un orario base realistico (es. 6 giorni, pausa pranzo o chiusura anticipata) e uno scenario con aiuto/dipendente part-time. I ricavi dell'orario esteso (domenica) vanno valutati con prudenza.
 - **Data di apertura**: determinata dal percorso critico → corso abilitante → verifica locale/contratto condizionato → domanda bando → esito/erogazione → lavori e forniture → SCIA/notifica sanitaria → apertura. Un cronoprogramma realistico verrà inserito in `BUSINESS_PLAN_UFFICIALE.md`.
