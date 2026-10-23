@@ -33,8 +33,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 4. ✅ Età 33 (nata 28/11/1992), disoccupata, residente a Ferrara da 5 anni
 5. ✅ Requisiti professionali: assenti → corso abilitante necessario
 6. ✅ Lavorerà da sola; marito max 2 h/settimana (occasionale)
-7. 🟨 Orari: continuato 8:00–20:00 (12 h/giorno); giorni/settimana non indicati (ipotesi di lavoro: 6 → 72 h/sett.); **data target di apertura** ❓ ← _domanda corrente_
-8. ⬜ Mezzo di trasporto/patente per approvvigionamento
+7. ✅ Orari: 7 giorni su 7, 8:00–20:00 (84 h/sett. da sola, da rivedere); apertura **non datata**: quando requisiti e fondi saranno pronti (data da stimare con cronoprogramma)
+8. ⬜ Mezzo di trasporto/patente (verrà chiesto nel Modulo 3)
 
 ---
 
@@ -93,6 +93,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **7 giorni su 7, 8–20 = 84 h/settimana per una sola persona**: non sostenibile nel lungo periodo e difficilmente compatibile con acquisti, HACCP e contabilità. Nel business plan si proporrà un orario base realistico (es. 6 giorni, pausa pranzo o chiusura anticipata) e uno scenario con aiuto/dipendente part-time. I ricavi dell'orario esteso (domenica) vanno valutati con prudenza.
+- **Data di apertura**: determinata dal percorso critico → corso abilitante → verifica locale/contratto condizionato → domanda bando → esito/erogazione → lavori e forniture → SCIA/notifica sanitaria → apertura. Un cronoprogramma realistico verrà inserito in `BUSINESS_PLAN_UFFICIALE.md`.
 - **Orario previsto 8:00–20:00 con una sola operatrice**: 12 h/giorno in negozio (72 h/sett. su 6 giorni), senza pausa e senza il tempo per acquisti, pulizie, contabilità. Rischio di sostenibilità personale e di errori su HACCP/registrazioni. Da valutare nel Piano Operativo: orario ridotto con pausa (es. 8–13 / 16–19:30), chiusura di un giorno e mezzo, sostituzione del marito/altri per le ore di acquisto, eventuale primo collaboratore dal 2° anno (costo da inserire in scenari). Verificare anche eventuali limiti di orario comunali (Ferrara) ⚠️ DA VERIFICARE.
 - **Unica operatrice (12 mq, nessun dipendente)**: orari di apertura e acquisti al mercato (mattina presto) sono in conflitto → servono fornitori che consegnano o un piano di acquisti in orari compatibili. Niente costo del personale nei primi anni; l'aiuto del marito (~2 h/sett.) è considerabile occasionale ⚠️ DA VERIFICARE con commercialista/INPS per evitare obblighi contributivi. Forma giuridica: **ditta individuale** (la compagine femminile resta al 100%, ottimale per le agevolazioni).
 - **Forma giuridica (ipotesi)**: ditta individuale della titolare + familiari come collaboratori. Punti da verificare: (a) per i bandi "imprenditoria femminile" (Fondo Impresa Donna, ON) le quote e l'amministrazione devono essere a prevalenza femminile → **non inserire il marito come socio** senza verificare le soglie; (b) i familiari che lavorano abitualmente vanno inquadrati (impresa familiare, coadiuvanti INPS Gestione Commercianti) con relativi contributi; (c) i costi del lavoro dei familiari nel conto economico; (d) un familiare con il requisito professionale potrebbe fare da preposto. ⚠️ DA VERIFICARE.
