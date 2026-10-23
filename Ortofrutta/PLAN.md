@@ -13,7 +13,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 |---|---|---|
 | Città / Comune del locale | Ferrara (FE), via Oroboni | ✅ |
 | Regione (determina accesso a Resto al Sud 2.0, bandi regionali, normativa commerciale/ASL) | Emilia-Romagna (AUSL Ferrara) | ✅ |
-| Metratura presunta del locale (mq vendita + mq magazzino/laboratorio) | — | ❓ |
+| Metratura presunta del locale (mq vendita + mq magazzino/laboratorio) | ~12 mq (4 m × 3 m), stima non verificata; non noto se esistano retro/magazzino/WC | 🟨 |
 | Budget di partenza indicativo (risparmi propri / mezzi propri) | — | ❓ |
 | Età della titolare | — | ❓ |
 | Residenza della titolare (Comune/Regione) | — | ❓ |
@@ -26,8 +26,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ## Coda delle domande (una alla volta)
 
 1. ✅ Città/regione: Ferrara, Emilia-Romagna, via Oroboni
-2. ❓ **Metratura presunta del locale** ← _domanda corrente_
-3. ⬜ Budget di partenza indicativo
+2. 🟨 Metratura: ~12 mq stimati (da misurare/confermare con planimetria o visura catastale)
+3. ❓ **Budget di partenza indicativo** ← _domanda corrente_
 4. ⬜ Età, residenza e condizione occupazionale della titolare
 5. ⬜ Requisiti professionali già posseduti
 6. ⬜ Locale individuato? Affitto/acquisto e canone
@@ -91,6 +91,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 
 ## Registro decisioni e avvertenze
 - **Localizzazione = Ferrara (Emilia-Romagna)**: regione fuori dal Mezzogiorno → **Resto al Sud 2.0 probabilmente non applicabile** (⚠️ DA VERIFICARE l'elenco dei territori ammessi). Restano da valutare ON, Fondo Impresa Donna, Microcredito e bandi regionali/camerali (Regione Emilia-Romagna, CCIAA Ferrara).
+- **Locale molto piccolo (~12 mq)**: impatta layout (banco + cella + bilancia + cassa), assortimento e fatturato massimo. Da verificare: presenza di servizio igienico per il personale, antibagno, spazio per lavaggio/stoccaggio, possibilità di magazzino esterno; superficie minima/requisiti igienici previsti dal regolamento comunale e dall'AUSL. Il modello va pensato "snello" (alta rotazione, poco stock, eventuale consegna a domicilio).
 - Da approfondire a Ferrara: SUAP del Comune di Ferrara (SCIA), AUSL Ferrara – Dip. Sanità Pubblica (notifica sanitaria), mercato ortofrutticolo di riferimento (Ferrara o CAAB Bologna ⚠️ DA VERIFICARE), eventuali vincoli del centro storico/zone ZTL e regolamenti comunali sul commercio.
 - Le misure agevolative cambiano spesso (dotazioni, soglie, requisiti): ogni cifra o percentuale va **verificata sul bando/avviso vigente** prima della presentazione. Nei documenti le informazioni da verificare sono marcate con `⚠️ DA VERIFICARE`.
 - Nota terminologica: la **SAB** (Somministrazione Alimenti e Bevande, ex REC) riguarda bar/ristorazione. Per il **solo commercio al dettaglio** di ortofrutta si applica il requisito professionale per il settore alimentare (art. 71, c. 6, D.Lgs. 59/2010), la cui disciplina operativa varia per regione. La SAB diventa rilevante solo se si somministrano/consumano in loco centrifugati o simili.
