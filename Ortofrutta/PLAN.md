@@ -15,9 +15,9 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 | Regione (determina accesso a Resto al Sud 2.0, bandi regionali, normativa commerciale/ASL) | Emilia-Romagna (AUSL Ferrara) | ✅ |
 | Metratura presunta del locale (mq vendita + mq magazzino/laboratorio) | ~12 mq (4 m × 3 m), stima non verificata; non noto se esistano retro/magazzino/WC | 🟨 |
 | Budget di partenza indicativo (risparmi propri / mezzi propri) | €2.000–5.000 (mezzi propri) | ✅ |
-| Età della titolare | — | ❓ |
+| Età della titolare | Nata il 28/11/1992 → 33 anni (34 dal 28/11/2026); under 35 fino al 27/11/2027 | ✅ |
 | Residenza della titolare (Comune/Regione) | — | ❓ |
-| Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | — | ❓ |
+| Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | Disoccupata (da verificare: DID/iscrizione al Centro per l'impiego, date, eventuale NASpI) | ✅ |
 | Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | — | ❓ |
 | Locale: già individuato? In affitto o acquisto? Canone stimato? | **Negozio** in via Oroboni, Ferrara (non garage), ultimo uso: parrucchiera. **In affitto**; canone non ancora noto, stima massima €500/mese (ipotesi di lavoro). Nessun magazzino. Categoria catastale da confermare con visura (atteso C/1) | ✅ |
 | Forma giuridica preferita (ditta individuale / società) | — | ❓ |
@@ -30,7 +30,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 3. ✅ Locale: negozio in affitto (ex parrucchiera), canone da definire
 3b. ✅ Canone: non noto, ipotesi max €500/mese (€6.000/anno), da verificare con annunci/agenzie
 3c. ✅ Mezzi propri: €2.000–5.000
-4. ❓ **Età, residenza e condizione occupazionale della titolare** ← _domanda corrente_
+4. 🟨 Età (33, nata 28/11/1992) e stato (disoccupata) ✅; **residenza** ❓ ← _domanda corrente_
 5. ⬜ Requisiti professionali già posseduti
 6. ⬜ Locale individuato? Affitto/acquisto e canone
 7. ⬜ Forma giuridica preferita / eventuali soci
@@ -92,6 +92,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Profilo titolare**: donna, 33 anni (under 35 fino al 27/11/2027), disoccupata → requisiti favorevoli per ON (giovani/donne), Microcredito e misure regionali per disoccupati/donne; il limite under 35 va rispettato **alla data della domanda** ⚠️ DA VERIFICARE nell'avviso vigente. Rilevante la tempistica: presentare prima di compiere 35 anni se un bando lo richiede.
 - **Mezzi propri molto limitati (€2–5k)**: il progetto dipende dalla finanza agevolata (fondo perduto/tasso zero) e da un investimento iniziale contenuto. Probabili strumenti più adatti: Microcredito, Fondo Impresa Donna, bandi regionali/camerali; ON se la titolare rientra nei requisiti. Il CAPEX va dimensionato con attrezzature essenziali (anche usate/leasing/noleggio dove non ammesso dal bando) ⚠️ DA VERIFICARE ammissibilità.
 - **Localizzazione = Ferrara (Emilia-Romagna)**: regione fuori dal Mezzogiorno → **Resto al Sud 2.0 probabilmente non applicabile** (⚠️ DA VERIFICARE l'elenco dei territori ammessi). Restano da valutare ON, Fondo Impresa Donna, Microcredito e bandi regionali/camerali (Regione Emilia-Romagna, CCIAA Ferrara).
 - **Aggiornamento**: il locale è un ex garage già **usato come parrucchiere** → il rischio di cambio d'uso C/6→C/1 si riduce molto (probabile destinazione già non-garage), ma va **confermato con visura catastale e titoli edilizi** (categoria attuale, eventuale cambio d'uso già regolarizzato). Resta da verificare il passaggio da servizi alla persona a **commercio alimentare** (requisiti igienico-sanitari AUSL, WC/antibagno, scarichi, ventilazione, pavimenti). **Nessun magazzino/retro**: stoccaggio e cella vanno risolti dentro i ~12 mq o all'esterno. [Nota originaria, da applicare solo se la visura mostra ancora C/6:] criticità n.1 del progetto. Per aprire un negozio alimentare serve: (a) cambio di destinazione d'uso a commerciale (titolo edilizio al Comune di Ferrara, possibili oneri), (b) verifica che la zona (RUE/PSC) ammetta il commercio, (c) verifica che il garage non sia pertinenza vincolata di un'abitazione (L. 122/1989) o soggetto a vincoli di regolamento condominiale, (d) agibilità e requisiti igienico-edilizi (altezza utile, aero-illuminazione, servizio igienico con antibagno, pavimenti/pareti lavabili, scarichi, ventilazione), (e) aggiornamento catastale (variazione a C/1). Costi e tempi vanno inseriti nel CAPEX. **Decisione "go/no-go" dopo parere preliminare di un tecnico (geometra/architetto) e confronto con SUAP/Edilizia del Comune e AUSL.**
