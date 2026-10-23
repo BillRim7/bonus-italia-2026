@@ -38,14 +38,14 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 
 ---
 
-## Fase 1 — Requisiti personali e societari → `01_REQUISITI_E_NORMATIVA.md`
-- ⬜ Inquadramento titolare: ditta individuale vs società (SNC/SAS/SRLS/SRL)
+## Fase 1 — Requisiti personali e societari → `01_REQUISITI_E_NORMATIVA.md` — 🟨 BOZZA COMPLETATA (2026-10-23)
+- ✅ Inquadramento titolare: ditta individuale (raccomandata) vs società — da riverificare se ON richiede forma societaria
 - 🟨 Requisiti professionali per vendita alimenti (art. 71 D.Lgs. 59/2010): **titolare priva di requisito → corso abilitante da fare**; SAB solo se somministrazione
-- ⬜ Codice ATECO (47.21.01 commercio al dettaglio di frutta e verdura fresca) e partita IVA
-- ⬜ Iscrizione Camera di Commercio / REA, Comunicazione Unica
-- ⬜ INPS Gestione Commercianti (contributi minimi, riduzioni, regime forfettario)
-- ⬜ INAIL (obbligo e copertura)
-- ⬜ Regime fiscale (forfettario vs ordinario) e impatto sul business plan
+- ✅ Codice ATECO 47.21.01 e partita IVA (bozza)
+- ✅ Iscrizione Camera di Commercio / REA, Comunicazione Unica (bozza)
+- ✅ INPS Gestione Commercianti 2026: fisso €4.611,64/anno (bozza, da confermare con commercialista)
+- 🟨 INAIL (probabile non obbligatoria per titolare commerciante; da verificare)
+- 🟨 Regime fiscale: forfettario (5% start-up) da confrontare numericamente col regime ordinario in Fase 4/6
 
 ## Fase 2 — Locale, licenze e sicurezza → `02_LOCALE_SICUREZZA_HACCP.md`
 - ⬜ Categoria catastale C/1, destinazione d'uso, agibilità, conformità urbanistica
@@ -98,6 +98,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 - **Orario previsto 8:00–20:00 con una sola operatrice**: 12 h/giorno in negozio (72 h/sett. su 6 giorni), senza pausa e senza il tempo per acquisti, pulizie, contabilità. Rischio di sostenibilità personale e di errori su HACCP/registrazioni. Da valutare nel Piano Operativo: orario ridotto con pausa (es. 8–13 / 16–19:30), chiusura di un giorno e mezzo, sostituzione del marito/altri per le ore di acquisto, eventuale primo collaboratore dal 2° anno (costo da inserire in scenari). Verificare anche eventuali limiti di orario comunali (Ferrara) ⚠️ DA VERIFICARE.
 - **Unica operatrice (12 mq, nessun dipendente)**: orari di apertura e acquisti al mercato (mattina presto) sono in conflitto → servono fornitori che consegnano o un piano di acquisti in orari compatibili. Niente costo del personale nei primi anni; l'aiuto del marito (~2 h/sett.) è considerabile occasionale ⚠️ DA VERIFICARE con commercialista/INPS per evitare obblighi contributivi. Forma giuridica: **ditta individuale** (la compagine femminile resta al 100%, ottimale per le agevolazioni).
 - **Forma giuridica (ipotesi)**: ditta individuale della titolare + familiari come collaboratori. Punti da verificare: (a) per i bandi "imprenditoria femminile" (Fondo Impresa Donna, ON) le quote e l'amministrazione devono essere a prevalenza femminile → **non inserire il marito come socio** senza verificare le soglie; (b) i familiari che lavorano abitualmente vanno inquadrati (impresa familiare, coadiuvanti INPS Gestione Commercianti) con relativi contributi; (c) i costi del lavoro dei familiari nel conto economico; (d) un familiare con il requisito professionale potrebbe fare da preposto. ⚠️ DA VERIFICARE.
+- **Novità bandi (ricerca 2026-10-23)**: ON dal 1/7/2026 **solo tasso zero** (niente più fondo perduto); Fondo Impresa Donna segnalato come **esaurito**; Resto al Sud non applicabile a Ferrara. Il fondo perduto "75–90%" ipotizzato inizialmente **non è più garantito**: il piano finanziario va costruito su tasso zero + Microcredito + bandi regionali/camerali. Da verificare su fonti ufficiali in Modulo 5.
 - **Azione prioritaria: corso abilitante** (commercio settore alimentare, ex REC) in Emilia-Romagna presso un ente accreditato (associazioni di categoria, enti di formazione di Ferrara). Da verificare durata, costo, calendario e se l'attestato è richiesto già in fase di domanda del bando o prima della SCIA. Costo da inserire nel CAPEX (pratiche e formazione). In alternativa: socio/preposto in possesso del requisito (⚠️ DA VERIFICARE per la titolare di ditta individuale).
 - **Profilo titolare**: donna, 33 anni (under 35 fino al 27/11/2027), disoccupata → requisiti favorevoli per ON (giovani/donne), Microcredito e misure regionali per disoccupati/donne; il limite under 35 va rispettato **alla data della domanda** ⚠️ DA VERIFICARE nell'avviso vigente. Rilevante la tempistica: presentare prima di compiere 35 anni se un bando lo richiede.
 - **Mezzi propri molto limitati (€2–5k)**: il progetto dipende dalla finanza agevolata (fondo perduto/tasso zero) e da un investimento iniziale contenuto. Probabili strumenti più adatti: Microcredito, Fondo Impresa Donna, bandi regionali/camerali; ON se la titolare rientra nei requisiti. Il CAPEX va dimensionato con attrezzature essenziali (anche usate/leasing/noleggio dove non ammesso dal bando) ⚠️ DA VERIFICARE ammissibilità.

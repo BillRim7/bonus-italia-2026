@@ -12,6 +12,12 @@
 | Microcredito (Invitalia / altri) | _da verificare_ | _da verificare_ | Nazionale | _da verificare_ | _da verificare_ | _da valutare_ |
 | Bandi regionali / camerali | Regione / CCIAA | _da verificare_ | Regionale | _da verificare_ | _da verificare_ | _da valutare_ |
 
+## 1b. Prime verifiche su fonti web (ottobre 2026) — ⚠️ da confermare su invitalia.it / incentivi.gov.it
+- **ON – Oltre Nuove Imprese a Tasso Zero:** secondo le fonti consultate, per le domande dal **1° luglio 2026** l'agevolazione è concessa **solo come finanziamento a tasso zero** (esaurite le risorse del fondo perduto, che prima copriva fino al 90% con quota a fondo perduto). Sportello a **domande in ordine di arrivo** tramite piattaforma Invitalia. Rifinanziamento di 59 milioni con decreto del 16 giugno 2026. Target: imprese costituite da non più di 60 mesi, compagine con maggioranza di donne o under 35; progetti fino a 3 milioni, anche commercio. Dubbio da sciogliere: **ammissibilità della ditta individuale** (le fonti parlano di forma societaria o di persone fisiche che costituiscono l'impresa).
+- **Fondo Impresa Donna:** fonte consultata lo indica come **risorse esaurite** (sospensioni per mancata copertura nel 2024); possibili riaperture/nuovi stanziamenti da verificare.
+- **Resto al Sud 2.0:** da escludere salvo conferma dei territori ammessi (Ferrara non è nel Mezzogiorno).
+- **Implicazione:** con mezzi propri €2–5k e senza fondo perduto certo, il piano deve ridurre il fabbisogno e valutare **Microcredito**, **bandi regionali/camerali Emilia-Romagna** (es. misure per autoimpiego/donne) e finanziamento a tasso zero con garanzie (Fondo di garanzia PMI) ⚠️.
+
 ## 2. Requisiti di ammissibilità
 _Da compilare per misura: soggetto beneficiario, compagine femminile, età, residenza, stato occupazionale, costituzione dell'impresa (nuova / entro X mesi), settori ammessi (commercio al dettaglio)._
 
