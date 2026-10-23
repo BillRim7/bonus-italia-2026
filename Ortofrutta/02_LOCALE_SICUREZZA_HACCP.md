@@ -2,8 +2,8 @@
 
 > Stato: ⬜ da compilare (Fase 2) · Dati necessari: comune, metratura, locale già individuato (sì/no), eventuale laboratorio/centrifugati.
 
-## 0. ⚠️ Situazione specifica: GARAGE in via Oroboni, Ferrara (~12 mq)
-Il locale è un garage (probabile cat. catastale **C/6**, non C/1). Percorso da verificare:
+## 0. Situazione specifica: ex garage in via Oroboni, Ferrara (~12 mq), già usato come parrucchiere, senza magazzino
+Il locale era un garage ma è stato usato come **parrucchiere**: la destinazione potrebbe essere già commerciale/servizi (da confermare in visura: C/1, C/3 o ancora C/6). Se è già non-garage, i punti 3-4 diventano verifiche formali; il cambio uso da servizi a commercio alimentare richiede comunque SCIA e conformità igienico-sanitaria. Percorso da verificare:
 1. **Visura e planimetria catastale** (categoria, consistenza, intestatario) e titolo edilizio/agibilità storici
 2. **Compatibilità urbanistica**: la zona consente la destinazione commerciale? (strumenti urbanistici del Comune di Ferrara: PSC/RUE) ⚠️ DA VERIFICARE
 3. **Vincolo pertinenziale** (L. 122/1989) e **regolamento condominiale**: il garage può cambiare uso?
