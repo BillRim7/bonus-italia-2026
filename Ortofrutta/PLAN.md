@@ -34,7 +34,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 5. ✅ Requisiti professionali: assenti → corso abilitante necessario
 6. ✅ Lavorerà da sola; marito max 2 h/settimana (occasionale)
 7. ✅ Orari: 7 giorni su 7, 8:00–20:00 (84 h/sett. da sola, da rivedere); apertura **non datata**: quando requisiti e fondi saranno pronti (data da stimare con cronoprogramma)
-8. 🟨 Formaggi e olive: **non venduti all'avvio** (interpretazione della risposta "il primo non li vendo"; eventuale introduzione in seguito) — **conferma assortimento di apertura** ❓ ← _domanda corrente_
+8. ✅ Assortimento di apertura: frutta e verdura + spezie + dolci + datteri (confezionati); formaggi e olive rimandati
+8b. ❓ **"Confezionati a casa mia": confezionati nel paese d'origine (import) oppure confezionati in casa vostra?** ← _domanda corrente_ (cambia completamente gli adempimenti)
 9. ⬜ Mezzo di trasporto/patente (Modulo 3)
 10. ⬜ Prodotti arabi: quali (spezie, dolci, conserve…) e fornitori già noti?
 
@@ -95,6 +96,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Prodotti arabi (spezie, dolci, datteri) "confezionati a casa mia"** — significato da chiarire: (A) già confezionati nel paese d'origine e importati/acquistati da grossisti → servono etichette in italiano, importatore/distributore responsabile, controlli; (B) confezionati/preparati in casa propria → **non consentito vendere in negozio alimenti prodotti o confezionati in cucina domestica** senza un laboratorio registrato (notifica sanitaria, locali idonei, HACCP, etichettatura); i dolci artigianali sono produzione, non solo vendita. Fino a chiarimento, nessuna decisione.
 - **Assortimento di apertura (ipotesi)**: frutta e verdura fresca + spezie + eventuali prodotti tipici arabi confezionati. **Formaggi e olive rimandati** (nessun prodotto di origine animale all'avvio → HACCP, banchi e rischi molto più semplici). Da riconfermare con il cliente.
 - **Assortimento ampliato (decisione cliente)**: oltre a frutta e verdura, **olive, spezie, formaggi e forse prodotti tipici arabi** → il negozio diventa un **alimentare misto/gastronomia leggera**. Impatti: (1) codice ATECO e SCIA da riconsiderare (47.21.01 vs 47.11.x/47.29.x, in base al fatturato prevalente) ⚠️; (2) formaggi = prodotti di origine animale → catena del freddo 0–4 °C, eventuale vendita a taglio (attrezzatura, igiene, HACCP più stringente); (3) olive e spezie sfuse → banchi, contenitori, etichettatura, allergeni; (4) prodotti arabi importati → etichettatura in italiano (Reg. UE 1169/2011), fornitori/importatori affidabili, eventuale certificazione halal se dichiarata; (5) più spazio e capitale per lo stock in soli 12 mq; (6) maggiori margini potenziali (formaggi/spezie/prodotti tipici) ma anche maggiore complessità.
 - **Modulo 2**: bagno/scarichi del locale dichiarati presenti (da verificare in sopralluogo). Senza dipendenti il DVR non è obbligatorio, ma art. 21 D.Lgs. 81/08 si applica; prudenza: estintore e cassetta. Stima adeguamenti locale ~€2.850–13.400 (da preventivi).
