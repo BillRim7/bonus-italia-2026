@@ -20,8 +20,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 | Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | Disoccupata; iscritta al Centro per l'impiego da circa 2-3 anni (da confermare con DID/scheda anagrafico-professionale e date esatte) | ✅ |
 | Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | **Nessuno** → serve corso professionale abilitante (commercio settore alimentare) presso ente accreditato in Emilia-Romagna, da completare prima della SCIA | ✅ |
 | Locale: già individuato? In affitto o acquisto? Canone stimato? | **Negozio** in via Oroboni, Ferrara (non garage), ultimo uso: parrucchiera. **In affitto**; canone non ancora noto, stima massima €500/mese (ipotesi di lavoro). Nessun magazzino. Categoria catastale da confermare con visura (atteso C/1) | ✅ |
-| Forma giuridica preferita (ditta individuale / società) | Ipotesi di lavoro: ditta individuale intestata alla titolare, con familiari collaboratori (impresa familiare art. 230-bis c.c.) | 🟨 |
-| Presenza di eventuali soci o dipendenti | La titolare lavorerà nel negozio insieme a familiari (identità e numero da precisare); nessun dipendente previsto | 🟨 |
+| Forma giuridica preferita (ditta individuale / società) | Ditta individuale intestata alla titolare (scelta quasi certa: unica operatrice) | 🟨 |
+| Presenza di eventuali soci o dipendenti | Nessun dipendente né soci. La titolare lavorerà da sola; il marito darà un aiuto occasionale (max ~2 ore/settimana, da verificare l'inquadramento come aiuto occasionale non retribuito) | 🟨 |
 
 ## Coda delle domande (una alla volta)
 
@@ -32,8 +32,9 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 3c. ✅ Mezzi propri: €2.000–5.000
 4. ✅ Età 33 (nata 28/11/1992), disoccupata, residente a Ferrara da 5 anni
 5. ✅ Requisiti professionali: assenti → corso abilitante necessario
-6. 🟨 Lavorerà con familiari (no dipendenti); **chi sono e quante ore/giorno lavorerebbero** ❓ ← _domanda corrente_
-7. ⬜ Conferma forma giuridica e regime fiscale
+6. ✅ Lavorerà da sola; marito max 2 h/settimana (occasionale)
+7. ❓ **Data target di apertura e giorni/orari previsti** ← _domanda corrente_
+8. ⬜ Mezzo di trasporto/patente per approvvigionamento
 
 ---
 
@@ -92,6 +93,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Unica operatrice (12 mq, nessun dipendente)**: orari di apertura e acquisti al mercato (mattina presto) sono in conflitto → servono fornitori che consegnano o un piano di acquisti in orari compatibili. Niente costo del personale nei primi anni; l'aiuto del marito (~2 h/sett.) è considerabile occasionale ⚠️ DA VERIFICARE con commercialista/INPS per evitare obblighi contributivi. Forma giuridica: **ditta individuale** (la compagine femminile resta al 100%, ottimale per le agevolazioni).
 - **Forma giuridica (ipotesi)**: ditta individuale della titolare + familiari come collaboratori. Punti da verificare: (a) per i bandi "imprenditoria femminile" (Fondo Impresa Donna, ON) le quote e l'amministrazione devono essere a prevalenza femminile → **non inserire il marito come socio** senza verificare le soglie; (b) i familiari che lavorano abitualmente vanno inquadrati (impresa familiare, coadiuvanti INPS Gestione Commercianti) con relativi contributi; (c) i costi del lavoro dei familiari nel conto economico; (d) un familiare con il requisito professionale potrebbe fare da preposto. ⚠️ DA VERIFICARE.
 - **Azione prioritaria: corso abilitante** (commercio settore alimentare, ex REC) in Emilia-Romagna presso un ente accreditato (associazioni di categoria, enti di formazione di Ferrara). Da verificare durata, costo, calendario e se l'attestato è richiesto già in fase di domanda del bando o prima della SCIA. Costo da inserire nel CAPEX (pratiche e formazione). In alternativa: socio/preposto in possesso del requisito (⚠️ DA VERIFICARE per la titolare di ditta individuale).
 - **Profilo titolare**: donna, 33 anni (under 35 fino al 27/11/2027), disoccupata → requisiti favorevoli per ON (giovani/donne), Microcredito e misure regionali per disoccupati/donne; il limite under 35 va rispettato **alla data della domanda** ⚠️ DA VERIFICARE nell'avviso vigente. Rilevante la tempistica: presentare prima di compiere 35 anni se un bando lo richiede.
