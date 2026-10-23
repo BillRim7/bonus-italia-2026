@@ -35,9 +35,9 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 6. ✅ Lavorerà da sola; marito max 2 h/settimana (occasionale)
 7. ✅ Orari: 7 giorni su 7, 8:00–20:00 (84 h/sett. da sola, da rivedere); apertura **non datata**: quando requisiti e fondi saranno pronti (data da stimare con cronoprogramma)
 8. ✅ Assortimento di apertura: frutta e verdura + spezie + dolci + datteri (confezionati); formaggi e olive rimandati
-8b. ❓ **"Confezionati a casa mia": confezionati nel paese d'origine (import) oppure confezionati in casa vostra?** ← _domanda corrente_ (cambia completamente gli adempimenti)
-9. ⬜ Mezzo di trasporto/patente (Modulo 3)
-10. ⬜ Prodotti arabi: quali (spezie, dolci, conserve…) e fornitori già noti?
+8b. ✅ Prodotti arabi: confezionati nel paese d'origine (opzione A), acquisto/importazione di prodotto già confezionato
+9. ❓ **Mezzo di trasporto/patente per gli acquisti** ← _domanda corrente_
+10. ⬜ Fornitori arabi già noti (importatori/distributori)?
 
 ---
 
@@ -59,12 +59,12 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 - 🟨 Conformità impianti (DM 37/08), F-Gas per impianti frigoriferi, rifiuti/scarti
 - 🟨 Etichettatura, tracciabilità, prezzi/unità di misura, bilance metriche (verifica periodica)
 
-## Fase 3 — Logistica, fornitori, scarti → `03_FORNITORI_LOGISTICA_PRODOTTI.md`
-- ⬜ Mercati all'ingrosso (MOI/CAAT/CAM) vs produttori a Km0 vs piattaforme B2B
-- ⬜ Mix assortimento e stagionalità
-- ⬜ Deperibilità, calo peso, tara e scarto medio per categoria
-- ⬜ Gestione scarti (donazioni L. 166/2016, compostaggio, rifiuti organici)
-- ⬜ Attrezzature: banchi refrigerati, bilance, celle, vetrine, RT/POS
+## Fase 3 — Logistica, fornitori, scarti → `03_FORNITORI_LOGISTICA_PRODOTTI.md` — 🟨 BOZZA COMPLETATA (2026-10-23)
+- 🟨 Mercati all'ingrosso (MOI/CAAT/CAM) vs produttori a Km0 vs piattaforme B2B
+- 🟨 Mix assortimento e stagionalità
+- 🟨 Deperibilità, calo peso, tara e scarto medio per categoria
+- 🟨 Gestione scarti (donazioni L. 166/2016, compostaggio, rifiuti organici)
+- 🟨 Attrezzature: banchi refrigerati, bilance, celle, vetrine, RT/POS
 
 ## Fase 4 — Piano economico e diversificazione → `04_ANALISI_ECONOMICOFINANZIARIA.md`
 - ⬜ CAPEX (ristrutturazione, attrezzature, insegna, depositi, primo stock)
@@ -96,6 +96,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Modulo 3**: scarto medio ponderato stimato 8–10% (📐); attrezzature senza cella ~€4.500–13.000 nuove / ~€1.900–5.200 usate; mercato all'ingrosso di Ferrara non confermato dalle fonti web → verificare; per l'orario 8–20 da sola, preferire grossisti con consegna.
 - **Prodotti arabi (spezie, dolci, datteri) "confezionati a casa mia"** — significato da chiarire: (A) già confezionati nel paese d'origine e importati/acquistati da grossisti → servono etichette in italiano, importatore/distributore responsabile, controlli; (B) confezionati/preparati in casa propria → **non consentito vendere in negozio alimenti prodotti o confezionati in cucina domestica** senza un laboratorio registrato (notifica sanitaria, locali idonei, HACCP, etichettatura); i dolci artigianali sono produzione, non solo vendita. Fino a chiarimento, nessuna decisione.
 - **Assortimento di apertura (ipotesi)**: frutta e verdura fresca + spezie + eventuali prodotti tipici arabi confezionati. **Formaggi e olive rimandati** (nessun prodotto di origine animale all'avvio → HACCP, banchi e rischi molto più semplici). Da riconfermare con il cliente.
 - **Assortimento ampliato (decisione cliente)**: oltre a frutta e verdura, **olive, spezie, formaggi e forse prodotti tipici arabi** → il negozio diventa un **alimentare misto/gastronomia leggera**. Impatti: (1) codice ATECO e SCIA da riconsiderare (47.21.01 vs 47.11.x/47.29.x, in base al fatturato prevalente) ⚠️; (2) formaggi = prodotti di origine animale → catena del freddo 0–4 °C, eventuale vendita a taglio (attrezzatura, igiene, HACCP più stringente); (3) olive e spezie sfuse → banchi, contenitori, etichettatura, allergeni; (4) prodotti arabi importati → etichettatura in italiano (Reg. UE 1169/2011), fornitori/importatori affidabili, eventuale certificazione halal se dichiarata; (5) più spazio e capitale per lo stock in soli 12 mq; (6) maggiori margini potenziali (formaggi/spezie/prodotti tipici) ma anche maggiore complessità.
