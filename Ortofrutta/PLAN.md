@@ -36,7 +36,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 7. ✅ Orari: 7 giorni su 7, 8:00–20:00 (84 h/sett. da sola, da rivedere); apertura **non datata**: quando requisiti e fondi saranno pronti (data da stimare con cronoprogramma)
 8. ✅ Assortimento di apertura: frutta e verdura + spezie + dolci + datteri (confezionati); formaggi e olive rimandati
 8b. ✅ Prodotti arabi: confezionati nel paese d'origine (opzione A), acquisto/importazione di prodotto già confezionato
-9. 🟨 Acquisti: il marito ritirerà la merce al CAAB di Bologna; preventivi da grossisti locali in seguito. **Quanti viaggi/settimana e con quale mezzo?** ❓ ← _domanda corrente_
+9. ✅ Acquisti al CAAB (marito) 2–3 viaggi/settimana, mezzo non specificato (assunta auto di famiglia)
+11. ❓ **Compenso minimo mensile che la famiglia si aspetta dal negozio** ← _domanda corrente_ (serve per valutare la sostenibilità: nello scenario base il compenso è molto basso)
 10. ⬜ Fornitori arabi già noti (importatori/distributori)?
 
 ---
@@ -66,11 +67,11 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 - 🟨 Gestione scarti (donazioni L. 166/2016, compostaggio, rifiuti organici)
 - 🟨 Attrezzature: banchi refrigerati, bilance, celle, vetrine, RT/POS
 
-## Fase 4 — Piano economico e diversificazione → `04_ANALISI_ECONOMICOFINANZIARIA.md`
-- ⬜ CAPEX (ristrutturazione, attrezzature, insegna, depositi, primo stock)
-- ⬜ OPEX (affitto, utenze, commercialista, HACCP, trasporti, personale)
-- ⬜ Margini per categoria e prezzi al kg
-- ⬜ Diversificazione (centrifugati, IV gamma, prodotti tipici, consegne a domicilio)
+## Fase 4 — Piano economico e diversificazione → `04_ANALISI_ECONOMICOFINANZIARIA.md` — 🟨 MODELLO BOZZA COMPLETATO (2026-10-23)
+- 🟨 CAPEX (ristrutturazione, attrezzature, insegna, depositi, primo stock)
+- 🟨 OPEX (affitto, utenze, commercialista, HACCP, trasporti, personale)
+- 🟨 Margini per categoria e prezzi al kg
+- 🟨 Diversificazione (centrifugati, IV gamma, prodotti tipici, consegne a domicilio)
 
 ## Fase 5 — Finanza agevolata → `05_BANTI_INVITALIA_E_FONDI.md`
 - ⬜ Mappatura bandi attivi: Invitalia ON, Resto al Sud 2.0, Fondo Impresa Donna, Microcredito, bandi regionali/camerali
@@ -79,11 +80,11 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 - ⬜ Spese ammissibili e non ammissibili
 - ⬜ Verifica aggiornamenti su fonti ufficiali (invitalia.it, MIMIT, Gazzetta Ufficiale)
 
-## Fase 6 — Break-even e proiezioni → `04_ANALISI_ECONOMICOFINANZIARIA.md`
-- ⬜ Costi fissi e variabili
-- ⬜ Break-even in € di incasso giornaliero / mensile
-- ⬜ Conto economico previsionale a 3 anni
-- ⬜ Piano di cassa e sostenibilità del debito
+## Fase 6 — Break-even e proiezioni → `04_ANALISI_ECONOMICOFINANZIARIA.md` — 🟨 BOZZA COMPLETATA (2026-10-23)
+- 🟨 Costi fissi e variabili
+- 🟨 Break-even in € di incasso giornaliero / mensile
+- 🟨 Conto economico previsionale a 3 anni
+- 🟨 Piano di cassa e sostenibilità del debito
 
 ## Fase 7 — Business Plan finale → `BUSINESS_PLAN_UFFICIALE.md`
 - ⬜ Executive Summary
@@ -96,6 +97,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Modulo 4/6 (modello base)**: CAPEX ~€21.200, fabbisogno esterno ~€17.700; costi fissi ~€1.640/mese (con INPS fisso); pareggio di gestione ~€163/giorno, con rimborso prestito ~€182/giorno, con prelievo €1.200/mese ~€301/giorno. Compenso titolare scenario base €0,7k/€5,3k/€7,1k annui (A1/A2/A3) → **sostenibilità fragile**; forfettario meno conveniente dell'ordinario (INPS sul 40% dei ricavi). Tutte stime 📐.
 - **Incoerenza da risolvere**: acquisti al CAAB (3–4 h/viaggio) dal marito vs aiuto occasionale "max 2 h/settimana". Con 2–3 viaggi/sett. il tempo sale a 6–12 h/sett. → valutare inquadramento (impresa familiare/collaboratore) o più consegne da grossisti.
 - **Modulo 3**: scarto medio ponderato stimato 8–10% (📐); attrezzature senza cella ~€4.500–13.000 nuove / ~€1.900–5.200 usate; mercato all'ingrosso di Ferrara non confermato dalle fonti web → verificare; per l'orario 8–20 da sola, preferire grossisti con consegna.
 - **Prodotti arabi (spezie, dolci, datteri) "confezionati a casa mia"** — significato da chiarire: (A) già confezionati nel paese d'origine e importati/acquistati da grossisti → servono etichette in italiano, importatore/distributore responsabile, controlli; (B) confezionati/preparati in casa propria → **non consentito vendere in negozio alimenti prodotti o confezionati in cucina domestica** senza un laboratorio registrato (notifica sanitaria, locali idonei, HACCP, etichettatura); i dolci artigianali sono produzione, non solo vendita. Fino a chiarimento, nessuna decisione.
