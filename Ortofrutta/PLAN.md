@@ -18,7 +18,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 | Età della titolare | Nata il 28/11/1992 → 33 anni (34 dal 28/11/2026); under 35 fino al 27/11/2027 | ✅ |
 | Residenza della titolare (Comune/Regione) | Ferrara (FE), residente da 5 anni | ✅ |
 | Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | Disoccupata; iscritta al Centro per l'impiego da circa 2-3 anni (da confermare con DID/scheda anagrafico-professionale e date esatte) | ✅ |
-| Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | — | ❓ |
+| Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | **Nessuno** → serve corso professionale abilitante (commercio settore alimentare) presso ente accreditato in Emilia-Romagna, da completare prima della SCIA | ✅ |
 | Locale: già individuato? In affitto o acquisto? Canone stimato? | **Negozio** in via Oroboni, Ferrara (non garage), ultimo uso: parrucchiera. **In affitto**; canone non ancora noto, stima massima €500/mese (ipotesi di lavoro). Nessun magazzino. Categoria catastale da confermare con visura (atteso C/1) | ✅ |
 | Forma giuridica preferita (ditta individuale / società) | — | ❓ |
 | Presenza di eventuali soci o dipendenti | — | ❓ |
@@ -31,15 +31,15 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 3b. ✅ Canone: non noto, ipotesi max €500/mese (€6.000/anno), da verificare con annunci/agenzie
 3c. ✅ Mezzi propri: €2.000–5.000
 4. ✅ Età 33 (nata 28/11/1992), disoccupata, residente a Ferrara da 5 anni
-5. ❓ **Requisiti professionali già posseduti (corso alimentare, esperienza, diploma)** ← _domanda corrente_
-6. ⬜ Locale individuato? Affitto/acquisto e canone
-7. ⬜ Forma giuridica preferita / eventuali soci
+5. ✅ Requisiti professionali: assenti → corso abilitante necessario
+6. ❓ **Lavorerà da sola (ditta individuale) o con soci/dipendenti?** ← _domanda corrente_
+7. ⬜ Conferma forma giuridica e regime fiscale
 
 ---
 
 ## Fase 1 — Requisiti personali e societari → `01_REQUISITI_E_NORMATIVA.md`
 - ⬜ Inquadramento titolare: ditta individuale vs società (SNC/SAS/SRLS/SRL)
-- ⬜ Requisiti professionali per vendita alimenti (art. 71 D.Lgs. 59/2010; SAB solo se somministrazione)
+- 🟨 Requisiti professionali per vendita alimenti (art. 71 D.Lgs. 59/2010): **titolare priva di requisito → corso abilitante da fare**; SAB solo se somministrazione
 - ⬜ Codice ATECO (47.21.01 commercio al dettaglio di frutta e verdura fresca) e partita IVA
 - ⬜ Iscrizione Camera di Commercio / REA, Comunicazione Unica
 - ⬜ INPS Gestione Commercianti (contributi minimi, riduzioni, regime forfettario)
@@ -92,6 +92,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Azione prioritaria: corso abilitante** (commercio settore alimentare, ex REC) in Emilia-Romagna presso un ente accreditato (associazioni di categoria, enti di formazione di Ferrara). Da verificare durata, costo, calendario e se l'attestato è richiesto già in fase di domanda del bando o prima della SCIA. Costo da inserire nel CAPEX (pratiche e formazione). In alternativa: socio/preposto in possesso del requisito (⚠️ DA VERIFICARE per la titolare di ditta individuale).
 - **Profilo titolare**: donna, 33 anni (under 35 fino al 27/11/2027), disoccupata → requisiti favorevoli per ON (giovani/donne), Microcredito e misure regionali per disoccupati/donne; il limite under 35 va rispettato **alla data della domanda** ⚠️ DA VERIFICARE nell'avviso vigente. Rilevante la tempistica: presentare prima di compiere 35 anni se un bando lo richiede.
 - **Mezzi propri molto limitati (€2–5k)**: il progetto dipende dalla finanza agevolata (fondo perduto/tasso zero) e da un investimento iniziale contenuto. Probabili strumenti più adatti: Microcredito, Fondo Impresa Donna, bandi regionali/camerali; ON se la titolare rientra nei requisiti. Il CAPEX va dimensionato con attrezzature essenziali (anche usate/leasing/noleggio dove non ammesso dal bando) ⚠️ DA VERIFICARE ammissibilità.
 - **Localizzazione = Ferrara (Emilia-Romagna)**: regione fuori dal Mezzogiorno → **Resto al Sud 2.0 probabilmente non applicabile** (⚠️ DA VERIFICARE l'elenco dei territori ammessi). Restano da valutare ON, Fondo Impresa Donna, Microcredito e bandi regionali/camerali (Regione Emilia-Romagna, CCIAA Ferrara).
