@@ -19,7 +19,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 | Residenza della titolare (Comune/Regione) | — | ❓ |
 | Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | — | ❓ |
 | Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | — | ❓ |
-| Locale: già individuato? In affitto o acquisto? Canone stimato? | **Negozio** in via Oroboni, Ferrara (non garage), ultimo uso: parrucchiera. **In affitto**; canone da definire. Nessun magazzino. Categoria catastale da confermare con visura (atteso C/1) | ✅ |
+| Locale: già individuato? In affitto o acquisto? Canone stimato? | **Negozio** in via Oroboni, Ferrara (non garage), ultimo uso: parrucchiera. **In affitto**; canone non ancora noto, stima massima €500/mese (ipotesi di lavoro). Nessun magazzino. Categoria catastale da confermare con visura (atteso C/1) | ✅ |
 | Forma giuridica preferita (ditta individuale / società) | — | ❓ |
 | Presenza di eventuali soci o dipendenti | — | ❓ |
 
@@ -28,8 +28,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 1. ✅ Città/regione: Ferrara, Emilia-Romagna, via Oroboni
 2. 🟨 Metratura: ~12 mq stimati (da misurare/confermare con planimetria o visura catastale)
 3. ✅ Locale: negozio in affitto (ex parrucchiera), canone da definire
-3b. ❓ **Canone mensile previsto / già concordato** ← _domanda corrente_
-3c. ⬜ Budget di partenza indicativo
+3b. ✅ Canone: non noto, ipotesi max €500/mese (€6.000/anno), da verificare con annunci/agenzie
+3c. ❓ **Budget di partenza indicativo (mezzi propri)** ← _domanda corrente_
 4. ⬜ Età, residenza e condizione occupazionale della titolare
 5. ⬜ Requisiti professionali già posseduti
 6. ⬜ Locale individuato? Affitto/acquisto e canone
