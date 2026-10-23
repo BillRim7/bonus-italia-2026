@@ -16,7 +16,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 | Metratura presunta del locale (mq vendita + mq magazzino/laboratorio) | ~12 mq (4 m × 3 m), stima non verificata; non noto se esistano retro/magazzino/WC | 🟨 |
 | Budget di partenza indicativo (risparmi propri / mezzi propri) | €2.000–5.000 (mezzi propri) | ✅ |
 | Età della titolare | Nata il 28/11/1992 → 33 anni (34 dal 28/11/2026); under 35 fino al 27/11/2027 | ✅ |
-| Residenza della titolare (Comune/Regione) | — | ❓ |
+| Residenza della titolare (Comune/Regione) | Ferrara (FE), residente da 5 anni | ✅ |
 | Condizione occupazionale attuale (disoccupata/inoccupata/occupata/NEET) | Disoccupata (da verificare: DID/iscrizione al Centro per l'impiego, date, eventuale NASpI) | ✅ |
 | Titoli e requisiti professionali già in possesso (corso, esperienza, diploma) | — | ❓ |
 | Locale: già individuato? In affitto o acquisto? Canone stimato? | **Negozio** in via Oroboni, Ferrara (non garage), ultimo uso: parrucchiera. **In affitto**; canone non ancora noto, stima massima €500/mese (ipotesi di lavoro). Nessun magazzino. Categoria catastale da confermare con visura (atteso C/1) | ✅ |
@@ -30,8 +30,8 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 3. ✅ Locale: negozio in affitto (ex parrucchiera), canone da definire
 3b. ✅ Canone: non noto, ipotesi max €500/mese (€6.000/anno), da verificare con annunci/agenzie
 3c. ✅ Mezzi propri: €2.000–5.000
-4. 🟨 Età (33, nata 28/11/1992) e stato (disoccupata) ✅; **residenza** ❓ ← _domanda corrente_
-5. ⬜ Requisiti professionali già posseduti
+4. ✅ Età 33 (nata 28/11/1992), disoccupata, residente a Ferrara da 5 anni
+5. ❓ **Requisiti professionali già posseduti (corso alimentare, esperienza, diploma)** ← _domanda corrente_
 6. ⬜ Locale individuato? Affitto/acquisto e canone
 7. ⬜ Forma giuridica preferita / eventuali soci
 
