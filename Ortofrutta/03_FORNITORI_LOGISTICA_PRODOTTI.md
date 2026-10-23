@@ -68,6 +68,14 @@
 - **Mezzo di trasporto**: da chiarire se disponibile un'auto/furgone (🔸 domanda aperta). Trasporto di alimenti: mezzo idoneo, pulito, temperatura per freschi.
 - **Frequenza ordini 📐**: fresco 3–5 volte/sett.; confezionati ogni 2–3 settimane.
 
+### 4.1 Decisione del cliente: acquisti al CAAB di Bologna a cura del marito
+- Il marito andrà al **CAAB (Bologna)** a ritirare la merce; eventuali preventivi da grossisti locali in un secondo momento.
+- **Tempo**: ~50 km ciascun senso; con carico/scarico e acquisto, **circa 3–4 ore a viaggio** 📐. A 3 viaggi/settimana = **9–12 ore/settimana**, ben oltre le "2 ore/settimana" di aiuto occasionale dichiarate → **da rivedere**: potrebbe configurarsi come collaborazione continuativa (INPS/INAIL, impresa familiare) ⚠️ verificare con commercialista; oppure ridurre a 2 viaggi/settimana + consegna da grossista.
+- **Costi** 📐: carburante + pedaggio ≈ 15–30 € a viaggio (≈ 200–400 €/mese a 3 viaggi/sett.), usura mezzo, assicurazione; da inserire in OPEX (trasporti).
+- **Accesso al CAAB**: verificare iscrizione/tesserino per operatori, orari di vendita ai dettaglianti, necessità di delega scritta/identificazione del marito come incaricato dell'impresa, pagamento (contanti/carte), minimi d'acquisto ⚠️ (caab.it).
+- **Mezzo di trasporto alimenti**: auto/furgone pulito e dedicato; per ortofrutta fresca bastano cassette e telo; per i prodotti confezionati e delicati temperatura adeguata; dichiarare l'attività di trasporto nella notifica sanitaria se richiesto ⚠️. Con un'auto privata, valutare cassoni isolati/pianali lavabili.
+- **Rischi**: dipendenza da una persona, assenza/malattia, traffico/ritardi, rottura mezzo → piano B: grossista locale con consegna.
+
 ## 5. Attrezzature per 12 mq (📐 range prezzi mercato nuovo/usato; non vincolanti)
 | Attrezzatura | Qtà | Nuovo € | Usato € | Note |
 |---|---|---|---|---|

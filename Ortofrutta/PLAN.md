@@ -36,7 +36,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 7. ✅ Orari: 7 giorni su 7, 8:00–20:00 (84 h/sett. da sola, da rivedere); apertura **non datata**: quando requisiti e fondi saranno pronti (data da stimare con cronoprogramma)
 8. ✅ Assortimento di apertura: frutta e verdura + spezie + dolci + datteri (confezionati); formaggi e olive rimandati
 8b. ✅ Prodotti arabi: confezionati nel paese d'origine (opzione A), acquisto/importazione di prodotto già confezionato
-9. ❓ **Mezzo di trasporto/patente per gli acquisti** ← _domanda corrente_
+9. 🟨 Acquisti: il marito ritirerà la merce al CAAB di Bologna; preventivi da grossisti locali in seguito. **Quanti viaggi/settimana e con quale mezzo?** ❓ ← _domanda corrente_
 10. ⬜ Fornitori arabi già noti (importatori/distributori)?
 
 ---
@@ -96,6 +96,7 @@ Legenda: ⬜ da fare · 🟨 in corso · ✅ completato · ❓ in attesa di dati
 ---
 
 ## Registro decisioni e avvertenze
+- **Incoerenza da risolvere**: acquisti al CAAB (3–4 h/viaggio) dal marito vs aiuto occasionale "max 2 h/settimana". Con 2–3 viaggi/sett. il tempo sale a 6–12 h/sett. → valutare inquadramento (impresa familiare/collaboratore) o più consegne da grossisti.
 - **Modulo 3**: scarto medio ponderato stimato 8–10% (📐); attrezzature senza cella ~€4.500–13.000 nuove / ~€1.900–5.200 usate; mercato all'ingrosso di Ferrara non confermato dalle fonti web → verificare; per l'orario 8–20 da sola, preferire grossisti con consegna.
 - **Prodotti arabi (spezie, dolci, datteri) "confezionati a casa mia"** — significato da chiarire: (A) già confezionati nel paese d'origine e importati/acquistati da grossisti → servono etichette in italiano, importatore/distributore responsabile, controlli; (B) confezionati/preparati in casa propria → **non consentito vendere in negozio alimenti prodotti o confezionati in cucina domestica** senza un laboratorio registrato (notifica sanitaria, locali idonei, HACCP, etichettatura); i dolci artigianali sono produzione, non solo vendita. Fino a chiarimento, nessuna decisione.
 - **Assortimento di apertura (ipotesi)**: frutta e verdura fresca + spezie + eventuali prodotti tipici arabi confezionati. **Formaggi e olive rimandati** (nessun prodotto di origine animale all'avvio → HACCP, banchi e rischi molto più semplici). Da riconfermare con il cliente.
