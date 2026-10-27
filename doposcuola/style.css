@@ -1,0 +1,39 @@
+:root {
+  --verde: #16a34a; --verde-chiaro: #dcfce7;
+  --rosso: #dc2626; --rosso-chiaro: #fee2e2;
+  --blu: #2563eb; --testo: #0f172a; --grigio: #64748b; --sfondo: #f1f5f9;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--sfondo); color: var(--testo);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.card { max-width: 520px; margin: 0 auto; padding: 20px 16px 32px; }
+h1 { font-size: 1.7rem; margin: 8px 0 4px; text-align: center; }
+.data { text-align: center; color: var(--grigio); font-size: 1.1rem; margin: 0 0 16px; text-transform: capitalize; }
+.connessione { background: #fef3c7; color: #92400e; padding: 8px; border-radius: 8px; text-align: center; font-size: .9rem; }
+form { background: #fff; padding: 16px; border-radius: 16px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+label { font-weight: 600; display: block; margin-bottom: 6px; }
+input { width: 100%; font-size: 1.1rem; padding: 14px; border: 2px solid #cbd5e1; border-radius: 12px; }
+input:focus { outline: none; border-color: var(--blu); }
+.bottoni { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 14px; }
+.btn { font-size: 1.2rem; font-weight: 700; color: #fff; border: 0; border-radius: 14px; padding: 18px 8px; cursor: pointer; }
+.btn:active { transform: scale(.97); }
+.btn.presente { background: var(--verde); }
+.btn.assente { background: var(--rosso); }
+.messaggio { min-height: 1.3em; margin: 10px 0 0; text-align: center; font-size: .95rem; color: var(--blu); }
+h2 { font-size: 1.2rem; margin: 22px 0 8px; }
+.titolo-presenti { color: var(--verde); } .titolo-assenti { color: var(--rosso); }
+.lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.lista:empty::after { content: "Nessuno per ora"; color: var(--grigio); font-size: .95rem; }
+.lista li { display: flex; align-items: center; gap: 8px; background: #fff; padding: 10px 12px; border-radius: 12px;
+  border-left: 6px solid var(--verde); }
+#lista-assenti li { border-left-color: var(--rosso); }
+.lista .nome { flex: 1; font-size: 1.1rem; word-break: break-word; }
+.lista button { border: 0; border-radius: 10px; padding: 10px 12px; font-size: .9rem; font-weight: 600; cursor: pointer;
+  background: #e0e7ff; color: var(--blu); }
+.lista button.rimuovi { background: #f1f5f9; color: var(--grigio); }
+.contatori { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 26px; }
+.contatore { border-radius: 16px; padding: 16px 8px; text-align: center; font-weight: 600; font-size: .9rem; }
+.contatore.presente { background: var(--verde-chiaro); color: #166534; }
+.contatore.assente { background: var(--rosso-chiaro); color: #991b1b; }
+.num { display: block; font-size: 3rem; font-weight: 800; line-height: 1.1; }
+.privacy { text-align: center; color: var(--grigio); font-size: .85rem; margin-top: 24px; }

@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "presenze": {
+      ".read": true,
+      "$giorno": {
+        ".validate": "$giorno.matches(/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/)",
+        ".write": true,
+        "$bambino": {
+          ".validate": "newData.hasChildren(['nome','stato']) && newData.child('nome').isString() && newData.child('nome').val().length <= 30 && (newData.child('stato').val() == 'presente' || newData.child('stato').val() == 'assente')",
+          "nome": {}, "stato": {}, "ts": {}
+        }
+      }
+    }
+  }
+}

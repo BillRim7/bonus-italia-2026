@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Presenze Doposcuola</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <h1>Presenze Doposcuola</h1>
+    <p id="data" class="data"></p>
+    <p id="stato-connessione" class="connessione" hidden>Connessione assente… riprovo</p>
+
+    <form id="form" autocomplete="off">
+      <label for="nome">Nome del bambino</label>
+      <input id="nome" type="text" maxlength="30" placeholder="Es. Marco" required>
+      <div class="bottoni">
+        <button type="button" id="btn-presente" class="btn presente">Presente</button>
+        <button type="button" id="btn-assente" class="btn assente">Assente</button>
+      </div>
+      <p id="messaggio" class="messaggio" role="status" aria-live="polite"></p>
+    </form>
+
+    <section>
+      <h2 class="titolo-presenti">Presenti</h2>
+      <ul id="lista-presenti" class="lista"></ul>
+    </section>
+    <section>
+      <h2 class="titolo-assenti">Assenti</h2>
+      <ul id="lista-assenti" class="lista"></ul>
+    </section>
+
+    <div class="contatori">
+      <div class="contatore presente"><span class="num" id="n-presenti">0</span><span>Numero bambini presenti</span></div>
+      <div class="contatore assente"><span class="num" id="n-assenti">0</span><span>Numero bambini assenti</span></div>
+    </div>
+
+    <p class="privacy">I dati vengono cancellati automaticamente a fine giornata.</p>
+  </main>
+
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
+  <script src="firebase-config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
