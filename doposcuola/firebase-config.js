@@ -4,7 +4,7 @@
 const firebaseConfig = {
   apiKey: "INCOLLA_QUI_apiKey",
   authDomain: "INCOLLA_QUI_authDomain",
-  databaseURL: "INCOLLA_QUI_databaseURL", // es. https://nome-progetto-default-rtdb.europe-west1.firebasedatabase.app
+  databaseURL: "https://doposcuola-guarini-default-rtdb.europe-west1.firebasedatabase.app", // es. https://nome-progetto-default-rtdb.europe-west1.firebasedatabase.app
   projectId: "INCOLLA_QUI_projectId",
   appId: "INCOLLA_QUI_appId"
 };
