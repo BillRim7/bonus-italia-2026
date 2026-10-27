@@ -1,10 +1,11 @@
-// INCOLLA QUI la configurazione del tuo progetto Firebase
-// (Impostazioni progetto > Le tue app > App web > "Configurazione SDK").
-// Attenzione: databaseURL è obbligatorio!
+// Configurazione del progetto Firebase "doposcuola-guarini".
+// Sono valori pubblici: la protezione è data dalle regole del database.
 const firebaseConfig = {
-  apiKey: "INCOLLA_QUI_apiKey",
-  authDomain: "INCOLLA_QUI_authDomain",
-  databaseURL: "https://doposcuola-guarini-default-rtdb.europe-west1.firebasedatabase.app", // es. https://nome-progetto-default-rtdb.europe-west1.firebasedatabase.app
-  projectId: "INCOLLA_QUI_projectId",
-  appId: "INCOLLA_QUI_appId"
+  apiKey: "AIzaSyDrF-6Q-jMmEkQGPLcLfHUklZjK9D5io2M",
+  authDomain: "doposcuola-guarini.firebaseapp.com",
+  databaseURL: "https://doposcuola-guarini-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "doposcuola-guarini",
+  storageBucket: "doposcuola-guarini.firebasestorage.app",
+  messagingSenderId: "1087708124840",
+  appId: "1:1087708124840:web:eb2880d11deeddcb5d949d"
 };
